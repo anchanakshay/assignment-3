@@ -1,0 +1,7 @@
+{"level":"info","message":"Server is running on port 3000"}
+{"level":"info","message":"Connected to MongoDB"}
+{"level":"info","message":"User creation success: {\n  name: 'Akshay',\n  email: 'akshay.anchan@niveussolutions.com',\n  age: 30,\n  _id: new ObjectId('67c571d3bf4c055db83e9a20'),\n  __v: 0\n}"}
+{"level":"info","message":"User creation success: {\n  name: 'Chandan',\n  email: 'chandan@niveussolutions.com',\n  age: 25,\n  _id: new ObjectId('67c571d3bf4c055db83e9a24'),\n  __v: 0\n}"}
+{"level":"info","message":"Fetched all users successfully"}
+{"level":"info","message":"User creation success: {\n  name: 'Priya',\n  email: 'priya@gmail.com',\n  age: 22,\n  _id: new ObjectId('67c571d3bf4c055db83e9a28'),\n  __v: 0\n}"}
+{"level":"info","message":"User updated: {\n  _id: new ObjectId('67c571d3bf4c055db83e9a28'),\n  name: 'Priya',\n  email: 'priya@gmail.com',\n  age: 23,\n  __v: 0\n}"}
